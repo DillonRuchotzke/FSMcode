@@ -1,9 +1,9 @@
-// .----------------------------------------------------.
-// | name: 	Dillon Ruchotzke 							|
+// .------------------------------------------------------------.
+// | name: 	Dillon Ruchotzke 				|
 // | code:	Junior Software Engineer Application Code	|
-// | date: 	April 22nd 2014 (last edit)					|
-// | program:	Sensor and Motor Program				|
-// .____________________________________________________.
+// | date: 	April 22nd 2014 (last edit)			|
+// | program:	Sensor and Motor Program			|
+// .____________________________________________________________.
 
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 	
 ///////////////////////////////////////////////////////////////////////////	
 // Task: Use the following as the basis for the Sensor and Motor classes //
-//		 implement the door latch class yourself.					     //
+//		 implement the door latch class yourself.		 //
 ///////////////////////////////////////////////////////////////////////////
 
 
